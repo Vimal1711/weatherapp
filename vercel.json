@@ -24,5 +24,4 @@
             "dest": "weatherapp/wsgi.py"
         }
     ]
-    { "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
 }
